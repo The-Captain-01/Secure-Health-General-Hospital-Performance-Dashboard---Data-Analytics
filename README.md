@@ -1,4 +1,4 @@
-# Secure-Health-General Hospital Performance Dashboard - Data Analytics
+# Secure Health General Hospital Performance Dashboard - Data Analytics
 ## INTRODUCTION
 
 ![](Introductory_Image.png)
